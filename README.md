@@ -2,15 +2,18 @@
 
 Hotel API Programming
 ===================
-In this exam, I will provide you hotel db in csv format. We need you implement 2 services on HTTP protocol.
+In this exam, you are provided with hotels database in CSV (Comma Separated Values) format. 
 
-BTW, We open to you on all language and platform.
+We need you implement HTTP service, according to the API requirements described below.
+You may use any language or platform that you like: C#/Java/Scala/etc.
+
+Good luck!
 
 
 API
 ======
-  1. Search hotel by CityId
-  -  Order result with both ASC and DESC parameter
+  1. Search hotels by CityId
+  2. Provide optional sorting of the result by Price (both ASC and DESC order).
 
 
 
